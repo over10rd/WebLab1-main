@@ -11,4 +11,4 @@
 Інструменти розробки: мови HTML5, CSS3, фреймворки Twitter Bootstrap або Material UI. (уроки від TutorialRepublic)
 Зауваження: програмувати функціональність сайту не потрібно (!)
 
-https://docs.google.com/document/d/1KWFBRiqhzbB3Q1DK24HbPTBOnOlrh8_oeeF-IBJLVcc/edit?usp=sharing
+https://docs.google.com/document/d/1tZ5JQuneexOqJUxEc7KdGCgFP40RsR5DTiGjDppLVPA/edit?usp=sharing
